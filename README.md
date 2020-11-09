@@ -1,6 +1,6 @@
 # Google-Form-Bot
 
-Uses Selenium to automate responses for (this google form.)[https://forms.gle/X6uCejPE7qwhWnm99]
+Uses Selenium to automate responses for [this google form.](https://forms.gle/X6uCejPE7qwhWnm99)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
