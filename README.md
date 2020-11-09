@@ -9,4 +9,4 @@ Uses Selenium to automate responses for [this google form.](https://forms.gle/X6
 * botv2.py - Uses 3 pre-filled urls, and fetchs each url randomly and submits it.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-![google-form]()
+![google-form](form.jpg)
