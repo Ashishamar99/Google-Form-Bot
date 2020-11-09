@@ -13,6 +13,6 @@ Uses Selenium to automate responses for [this google form.](https://forms.gle/X6
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-#### * [Link to an article about this.](https://medium.com/@ashishamar1999/cc059ad1a2c5?source=friends_link&sk=78bf66fd0f1a9251095c2877ec3ccb73)
+* #### [Link to an article about this.](https://medium.com/@ashishamar1999/cc059ad1a2c5?source=friends_link&sk=78bf66fd0f1a9251095c2877ec3ccb73)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
