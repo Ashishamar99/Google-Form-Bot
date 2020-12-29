@@ -11,7 +11,7 @@ url_list = [url_yes, url_no, url_no_pref]
 
 for i in range(20):
     url = random.choice(url_list)
-    driver.get(url_yes)
+    driver.get(url)
     driver.implicitly_wait(5)
     driver.find_element_by_xpath("//*[contains(text(), 'Submit')]").click()
     driver.find_element_by_xpath("//*[contains(text(), 'Submit another response')]").click()
